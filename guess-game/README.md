@@ -1,5 +1,8 @@
 # Guess Game
  #### This full-stack project is a nostalgic game that u must guess the number which computer choses randomly.
+
+![preview](assets/Screenshot.png)
+
  ---
  ## 🔧 Tech Stack
 
