@@ -1,5 +1,5 @@
 # Pig Game
- #### This full-stack project is a game wich plyas by dice.
+ #### This full-stack project is a game which plyas by dice.
 
 ![preview](assets/Screenshot.png)
 
